@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="nestle" tilewidth="16" tileheight="16">
+  <image source="nestle.png" width="2048" height="2048"/>
+ </tileset>
+ <layer name="块层 1" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2flW2kwcxnFAQWyvRsRTBfe1lX3nNlk8VbDu4sK+czn9DiYkxATpy4toT//4HExI4jz5TWYG2DKbTFv/zMzmHK9zs2/HP5/b39qP/tZc49pdMJn2sI8DHEo+6r2c9H/o5S38x7yfgW597bNvl3BqGnaGHPIoooQyKqiaxrvmEsc5sAwnVlCwK31nln10VWVUdj/vB1TnhRFBFDHEkUASKY5PI4MsTsa8T+9SXxVtdnVemXxeA0200EYHXfREfeHAMpxY+QA5B/W1KIwyus2KQX05PoIoYogjgSRSvJ9GBlmcfICcg/paJDpZ5Yx5lUF9OaeJFtrooIseluDAMpxYscw+Zz+rJqM2q5zRbVEM6stYEEEUMcSRQBIpjksjgyxOPmhebVY5Y15lUF9yNdFCGx100cMSHFiGEysfZO0lxqU1uMzDz6icVc7onlMM6jtPfRFFDHEkkESK49LIIIsT1XlG91hrKvXFGXLm4WfUrcm5Bpcm7yhLZHZgGU6szCtZtXnV93nonk8huxiT1+CyDD+jctZVyZ/mHdWftH0qb0BvTpi4vuQ6Q07zjE6aa1R/0vYpt0Wf3pwwcX01tdM+o/83eZ5X96m8Ab054bOR53p1n3LP6dObEz4bvfFgsL4z6Gv97O8wds+q5oLeuDaN8euj0BvXpjF+qT1b+fyLEsqooIoa6mhYXz7Ly5/nj9BlX88qtVlnrh1Hv9/rjGvTHr+ObSaTB1744Lcp+WT3C68zJ21Sm9/ok+OsM/TmymmNX9pscj61A7uSWc7bsyl98hvrqlWswQU31ueN1xjadYbR+DWNrOP05yZaaKNjHe7Poj/+JNspzpATOXE+b7zGmNY64y2iZnr9OYAgQggjgihiiCNhU/qzGHO/kX0Va3DBjXWr8RpjVuuMfn1pdxEllFFBFTXU0UATLbTRQdem9Gcxn/4k2ynOkBM5cW41XmPMap3Rry888MIHPwIIIoQwIogihjgSYrzS+Z55sKYwD49hQs78/uvaV/VlHHqm3UWUUEYFVdRQRwNNtNBGR8xHYrzSyTv4zsg8PK8KrhmvF/vjMHmP4YEXPvgRQBAhhBFBFDHEkUByxPfq2nnVJc03k7b5lmfoDvco2N7efrAN9+V+fVFECWVUUEUNdTTQRAttdNBFT8rrWOTzPpyLr+ss5lUX+91YxwY2xXHYxg52sYd9HOBw0Tiv9rcM7bbcDvW8Ka53tCjNqaK+/O2BFz74EUAQIYQRQRQxxJFAUmpXmtcMsgbtzLE/j3P8wgUucYVr3OAWd7hHYUTeW9p/J60JxO9U2m25HfL2w8LL9R7wiCc8o4gSyqigihrqaKCJFtrooIue1C7HF+4rnF/02+hivxvr2MCmOA7b2MEu9rCPAxzqXGdX2rdnf/lb1Er8TiW29+3KttwOefvI/nK9I3zHDxzDAy988COAIEIII4IoYogjgSRSSL/xmkMe5/iFC1ziCte4wS3ucI+C5vw/kUFWs09c5wGPeMIziiihjAqqqKGOBppooY0Ouuhh6Sv1/Tr61QU31rGBTWxhGzvYxR72cYBDzfmTEtc5wnf8wDE88MIHPwIIIoQwIogihjgSSCKF9BuvOeRxjl+4wCWucI0b3OIO9yhozp+UuM4DHvGEZxRRQhkVVFFDHQ000UIbHXTRw29BrnQe
+  </data>
+ </layer>
+</map>

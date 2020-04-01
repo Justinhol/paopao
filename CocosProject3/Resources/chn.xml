@@ -1,0 +1,24 @@
+<dict>
+  <key>str</key>
+  <string>泡泡历险记</string>
+  <key>StartStr</key>
+  <string>开始</string>
+  <key>first</key>
+  <string>第一关</string>
+  <key>second</key>
+  <string>第二关</string>
+  <key>ExitStr</key>
+  <string>退出</string>
+  <key>home</key>
+  <string>主页</string>
+  <key>over</key>
+  <string>游戏失败</string>
+  <key>lose</key>
+  <string>没吃到星星</string>
+  <key>win</key>
+  <string>通关成功!</string>
+  <key>pass</key>
+  <string>通过第一关!</string>
+  <key>tips</key>
+  <string>Tips:按住右下角的按钮,泡泡就会升起来哦!</string>
+</dict>
